@@ -1,4 +1,4 @@
-# Warning Map
+# Mapa de Perigo
 
 **Disciplina**: LINGUAGENS E PARADIGMAS DE PROGRAMAÇÃO <br>
 **Paradigma**: SMA<br>
